@@ -15,6 +15,7 @@ $user = $_SESSION['user'];
     <p><a href="admin.php">Open Admin Panel</a></p>
   <?php endif; ?>
 
+  <p><a href="play.php">Play</a></p>
   <p><a href="logout.php">Logout</a></p>
 </body>
 </html>
